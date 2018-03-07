@@ -1,0 +1,2 @@
+# LoginViewSample
+Android LoginView
