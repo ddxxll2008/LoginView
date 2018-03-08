@@ -1,1 +1,1 @@
-include ':app',':loginview'
+include ':sample',':loginview'
